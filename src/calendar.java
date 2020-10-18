@@ -9,8 +9,7 @@ import java.util.Scanner;
 public class calendar {
 
 	public static void main(String[] args) throws Throwable {
-		// TODO Auto-generated method stub
-		//
+		//input year&month
 		System.out.println(" please input year&month:");
 		Scanner sc = new Scanner(System.in);
 		
